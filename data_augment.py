@@ -1,3 +1,6 @@
+# Lab Session: Tuesday
+# Demo: 12/12/2024
+# Anishka Raina(Ar933), YI GU(yg642), Group 5import os
 import os
 import Augmentor
 
